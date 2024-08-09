@@ -48,7 +48,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <a href="https://www.hackerrank.com/profile/hiteshgottapu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21_5457" height="35" width="45" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/kolliparajaswanth030" target="blank">
+<a href="https://www.geeksforgeeks.org/user/hiteshgottapu309/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kolliparajaswanth030" height="35" width="45" />
 </a>
 </p>
@@ -56,11 +56,14 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 ## ⚙️ Working on:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- [Automated Online Exam](https://github.com/jaswanthgec/Automated-Online-Exam) 
-- [Virtual Labs Simulator](https://github.com/jaswanthgec/IIC-Virtual-Labs)
+- [ChurnAnalysisProject-PowerBI-](https://github.com/Hiteshgottapu/powebi/tree/AIDS/ChurnAnalysisProject-PowerBI-main) 
+- [Sales Market Analysis](https://github.com/Hiteshgottapu/powebi/blob/AIDS/Sales%20bi.pbix)
 - [Bar Code Scanner](https://github.com/jaswanthgec/Bar-Code-Scanner.git)
-- [Visualizing app](https://github.com/jaswanthgec/Streamlit_practice)
-
+- [Agile Code Quality Assessment Tool](https://github.com/Hiteshgottapu/data_science/tree/AIDS/Agile%20Code%20Quality%20Assessment%20Tool)
+- [Term Deposit](https://github.com/Hiteshgottapu/data_science/tree/AIDS/Term%20Deposit)
+- [Stock Market using weather data](https://github.com/Hiteshgottapu/data_science/tree/AIDS/stock%20market%20using%20weather%20data)
+- [Water purify cheacker](https://github.com/Hiteshgottapu/data_science/blob/AIDS/Water%20purify%20cheacker.ipynb)
+- [Forecasting Indias Weather](https://github.com/Hiteshgottapu/data_science/tree/AIDS/ml-olympiad-forecasting-indias-weather%20(1))
 ## 🖥️ Languages and Skills: 🚀
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
