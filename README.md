@@ -23,27 +23,27 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-[![Website](https://img.shields.io/badge/website-00246B?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/jaswanth-kollipara)
-[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolliparajaswanth030@gmail.com)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hiteshgottapu/) //
-[![Blog](https://img.shields.io/badge/Blog-FBBC05?style=for-the-badge&logo=blogger&logoColor=white)](https://kolliparajaswanth.blogspot.com/)
+[![Website](https://img.shields.io/badge/website-00246B?style=for-the-badge&logo=About.me&logoColor=white)](https://hiteshgottapuprotfolio.netlify.app/)
+[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiteshgottapu@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hiteshgottapu/)
+[![Blog](https://img.shields.io/badge/Blog-FBBC05?style=for-the-badge&logo=blogger&logoColor=white)](https://wordpress.com/posts/dataanalyst53.wordpress.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8143506309)
 [![Outlook](https://img.shields.io/badge/Outlook-CC313D?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5432@gecgudlavallerumic.in)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswanth-kollipara-896443237/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-data-analyst)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cw84QZKd)
 
 <p align="center">
-<a href="https://twitter.com/k_jaswanth3" target="blank">
+<a href="https://twitter.com/hitesh_gottapu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_jaswanth3" height="35" width="45" />
 </a>
-<a href="https://stackoverflow.com/users/26410375" target="blank">
+<a href="https://stackoverflow.com/users/26715034/gottapu-hitesh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26410375" height="35" width="45" />
 </a>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100077865823539" target="blank">
+<a href="https://www.facebook.com/hitesh.gottapu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kollipara jaswanth" height="35" width="45" />
 </a>
-<a href="https://instagram.com/jaswanthkollipara" target="blank">
+<a href="https://instagram.com/__hitesh__simha__" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaswanthkollipara" height="35" width="45" />
 </a>
 <a href="https://www.hackerrank.com/21_5457" target="blank">
