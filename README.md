@@ -53,7 +53,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 </a>
 </p>
 
-## ⚙️ Working on:
+## ⚙️ Worked on:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - [ChurnAnalysisProject-PowerBI-](https://github.com/Hiteshgottapu/powebi/tree/AIDS/ChurnAnalysisProject-PowerBI-main) 
