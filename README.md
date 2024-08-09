@@ -30,7 +30,6 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8143506309)
 [![Outlook](https://img.shields.io/badge/Outlook-CC313D?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:21481A5432@gecgudlavallerumic.in)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-data-analyst)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cw84QZKd)
 
 <p align="center">
 <a href="https://twitter.com/hitesh_gottapu" target="blank">
@@ -46,7 +45,7 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <a href="https://instagram.com/__hitesh__simha__" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaswanthkollipara" height="35" width="45" />
 </a>
-<a href="https://www.hackerrank.com/21_5457" target="blank">
+<a href="https://www.hackerrank.com/profile/hiteshgottapu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21_5457" height="35" width="45" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/kolliparajaswanth030" target="blank">
