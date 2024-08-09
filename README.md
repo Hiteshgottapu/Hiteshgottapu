@@ -85,9 +85,9 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 
 ### <span style="color:#32CD32;">Libraries<span/> and <span style="color:#4F7942;">OS: <span/>:
 
-| Scikit Learn | Seaborn | Pandas | Open CV | Ubuntu | Windows |
-|--------------|---------|--------|---------|--------|---------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="opencv2" alt="opencv2" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="55" height="55"/> | 
+| Scikit Learn | Seaborn | Pandas | Open CV | Windows |
+|--------------|---------|--------|---------|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="55" height="55"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="opencv2" alt="opencv2" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="55" height="55"/> | 
 
 ### Skills:
 
@@ -101,13 +101,13 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
   <tbody>
     <tr>
       <th>
-        <a href="https://github-readme-stats.vercel.app/api?username=jaswanthgec">
-          <img src="https://github-readme-stats.vercel.app/api?username=jaswanthgec&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">
+        <a href="https://github-readme-stats.vercel.app/api?username=Hiteshgottapu">
+          <img src="https://github-readme-stats.vercel.app/api?username=Hiteshgottapu&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">
         </a>
       </th>
       <th>
-        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthgec&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">
+        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshgottapu">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshgottapu&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">
         </a>
       </th>
     </tr>
@@ -122,8 +122,8 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
   <tbody>
     <tr>
       <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthgec">
-          <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthgec&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=Hiteshgottapu">
+          <img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Hiteshgottapu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
         </a>
       </td>
     </tr>
@@ -131,8 +131,8 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec">
-          <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthgec&theme=radical"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiteshgottapu">
+          <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiteshgottapu&theme=radical"/>
         </a>
       </td>
     </tr>
@@ -143,13 +143,13 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
   <tbody>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaswanthgec">
-          <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaswanthgec&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiteshgottapu">
+          <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hiteshgottapu&theme=dracula"/>
         </a>
       </td>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaswanthgec">
-          <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaswanthgec&theme=dracula"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiteshgottapu">
+          <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hiteshgottapu&theme=dracula"/>
         </a>
       </td>
     </tr>
@@ -161,5 +161,5 @@ I thrive on developing scalable and maintainable code, utilizing my solid unders
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 
-  <img width="1000" src="https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif" alt="settings  "/>
+ <img width="1000" src="https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif" alt="settings  "/>
 </p>
