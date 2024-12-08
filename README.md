@@ -15,9 +15,9 @@
 
 An Inquisitive learner with an innovative and logical mind. I am delighted to be employed in a competitive sector that provides numerous opportunities to advance my career.
 
-I'm a dedicated Data Analyst with a strong passion for creating seamless and efficient data visualizations. My expertise spans both Data science and Machine Learning, allowing me to build comprehensive and robust solutions. I specialize in modern Database and frameworks like Sql, MongoDb, PowerBi and Tableau, and I'm proficient in server-side technologies such as Tomcat, Nginx and Django.
+I'm a dedicated Data Analyst with a strong passion for creating seamless and efficient data visualizations. My expertise spans both Data science and Machine Learning, allowing me to build comprehensive and robust solutions. I specialize in modern Database and frameworks like Sql, MongoDb and PowerBi .
 
-I thrive on developing scalable and maintainable code, utilizing my solid understanding of database management with both SQL and NoSQL systems. My experience with cloud services like AWS and Azure enables me to deploy and manage applications efficiently.
+I thrive on developing scalable and maintainable code, utilizing my solid understanding of database management with both SQL and NoSQL systems.
  
 ## 🌐 Connect with me: 📫
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
