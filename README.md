@@ -68,8 +68,3 @@ I'm an inquisitive learner with a logical and innovative mindset. Passionate abo
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hiteshgottapu&theme=radical)
 
 ---
-
-### 🎉 Fun Fact
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
