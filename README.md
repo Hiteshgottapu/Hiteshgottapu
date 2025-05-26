@@ -1,35 +1,13 @@
-<!-- Header SVG -->
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" alt="Bottom Up" />
 
-<!-- Animated Gradient Hi -->
-<h1 align="center" style="font-weight: 900; font-size: 3.5em; background: linear-gradient(90deg, #6a11cb, #2575fc); -webkit-background-clip: text; color: transparent; animation: gradientMove 3s ease infinite;">
-  Hi <span style="display:inline-block; animation: wave 2.5s infinite;">👋</span>, I'm <span style="color:#2575fc;">Hitesh Gottapu</span>
+<h1 align="center">
+  Hi <img src="https://github.com/ABSphreak/ABSphreak.github.io/blob/master/assets/images/waving_hand.gif?raw=true" width="30px" alt="waving hand" />, I'm <span style="color:#2575fc;">Hitesh Gottapu</span>
 </h1>
 
-<style>
-@keyframes gradientMove {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
-
-@keyframes wave {
-  0%, 100% { transform: rotate(0deg);}
-  15% { transform: rotate(14deg);}
-  30% { transform: rotate(-8deg);}
-  40% { transform: rotate(14deg);}
-  50% { transform: rotate(-4deg);}
-  60% { transform: rotate(10deg);}
-  70% { transform: rotate(0deg);}
-}
-</style>
-
-<!-- Typing effect subtitle -->
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2575fc&width=460&lines=A+Passionate+Data+Scientist;Creating+Beautiful+Visualizations;Solving+Complex+Problems" alt="Typing SVG" />
 </h3>
 
-<!-- GitHub Trophies centered -->
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Hiteshgottapu&theme=discord&margin-w=6&margin-h=6" alt="GitHub Trophies" />
 </p>
@@ -39,7 +17,7 @@
 ### 👦🏻 About Me: ❤️
 
 <p align="center" style="font-size: 1.1em; line-height: 1.6;">
-  <span style="font-size:1.3em; animation: wave 3s infinite;">👋</span> An inquisitive learner with an innovative and logical mind.<br />
+  <img src="https://github.com/ABSphreak/ABSphreak.github.io/blob/master/assets/images/waving_hand.gif?raw=true" width="25px" alt="waving hand" /> An inquisitive learner with an innovative and logical mind.<br />
   Delighted to work in a competitive sector full of opportunities.<br /><br />
   
   Dedicated Data Analyst passionate about <b>seamless data visualizations</b>.<br />
