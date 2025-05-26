@@ -1,26 +1,54 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg">
+<!-- Header SVG -->
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" alt="Bottom Up" />
 
-<h1 align="center">Hi 👋, I'm Hitesh Gottapu</h1>
+<!-- Animated Gradient Hi -->
+<h1 align="center" style="font-weight: 900; font-size: 3.5em; background: linear-gradient(90deg, #6a11cb, #2575fc); -webkit-background-clip: text; color: transparent; animation: gradientMove 3s ease infinite;">
+  Hi <span style="display:inline-block; animation: wave 2.5s infinite;">👋</span>, I'm <span style="color:#2575fc;">Hitesh Gottapu</span>
+</h1>
 
+<style>
+@keyframes gradientMove {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
+}
+
+@keyframes wave {
+  0%, 100% { transform: rotate(0deg);}
+  15% { transform: rotate(14deg);}
+  30% { transform: rotate(-8deg);}
+  40% { transform: rotate(14deg);}
+  50% { transform: rotate(-4deg);}
+  60% { transform: rotate(10deg);}
+  70% { transform: rotate(0deg);}
+}
+</style>
+
+<!-- Typing effect subtitle -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=32CD32&width=435&lines=A+passionate+Data+Scientist;Building+beautiful+visualizations;Solving+complex+problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2575fc&width=460&lines=A+Passionate+Data+Scientist;Creating+Beautiful+Visualizations;Solving+Complex+Problems" alt="Typing SVG" />
 </h3>
 
+<!-- GitHub Trophies centered -->
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Hiteshgottapu&theme=discord&margin-w=6&margin-h=6" alt="GitHub Trophies" />
 </p>
 
+---
+
 ### 👦🏻 About Me: ❤️
 
-<p align="center" style="font-size: 1.2em;">
-  <span>👋</span> An inquisitive learner with an innovative and logical mind.  
-  I’m delighted to work in a competitive sector that provides numerous opportunities to advance my career.<br><br>
+<p align="center" style="font-size: 1.1em; line-height: 1.6;">
+  <span style="font-size:1.3em; animation: wave 3s infinite;">👋</span> An inquisitive learner with an innovative and logical mind.<br />
+  Delighted to work in a competitive sector full of opportunities.<br /><br />
   
-  I'm a dedicated Data Analyst passionate about creating seamless, efficient data visualizations.  
-  Experienced in Data Science and Machine Learning with skills in SQL, MongoDB, Power BI, and more.<br><br>
+  Dedicated Data Analyst passionate about <b>seamless data visualizations</b>.<br />
+  Skilled in Data Science, Machine Learning, <b>SQL, MongoDB, Power BI</b>, and more.<br /><br />
   
-  I thrive on developing scalable and maintainable code, leveraging solid database management knowledge across SQL and NoSQL systems.
+  Focused on writing scalable, maintainable code leveraging SQL & NoSQL expertise.
 </p>
+
+---
 
 ## 🌐 Connect with me: 📫
 
@@ -41,6 +69,8 @@
   <a href="https://www.geeksforgeeks.org/user/hiteshgottapu309/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="35" width="45" /></a>
 </p>
 
+---
+
 ## ⚙️ Worked on:
 
 - [Churn Analysis Project - Power BI](https://github.com/Hiteshgottapu/powebi/tree/AIDS/ChurnAnalysisProject-PowerBI-main)  
@@ -52,37 +82,41 @@
 - [Water Purify Checker](https://github.com/Hiteshgottapu/data_science/blob/AIDS/Water%20purify%20cheacker.ipynb)  
 - [Forecasting India's Weather](https://github.com/Hiteshgottapu/data_science/tree/AIDS/ml-olympiad-forecasting-indias-weather%20(1))  
 
+---
+
 ## 🖥️ Languages and Skills:
 
-### Languages:
+### Languages
 
 | C | Python | MySQL |
 |---|--------|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="55" width="55" alt="C"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="55" width="55" alt="Python"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="55" width="55" alt="MySQL"/> |
 
-### Frameworks:
+### Frameworks
 
 | Streamlit | Power BI | Tableau | TensorFlow | PyTorch |
 |-----------|---------|---------|------------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" height="55" width="55" alt="Streamlit"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="55" width="55" alt="Power BI"/> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/tableau-software.svg" height="55" width="55" alt="Tableau"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="55" width="55" alt="TensorFlow"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" height="55" width="55" alt="PyTorch"/> |
 
-### Development Tools:
+### Development Tools
 
 | Git | VS Code | Jupyter | Office 365 | PyCharm |
 |-----|---------|---------|------------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="55" width="55" alt="Git"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="55" width="55" alt="VS Code"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" height="55" width="55" alt="Jupyter"/> | <img src="https://res.cloudinary.com/dtdhmbtcg/image/upload/v1717313305/Microsoft_365__2022_.svg_lfzbte.png" height="55" width="55" alt="Office 365"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" height="55" width="55" alt="PyCharm"/> |
 
-### Libraries and OS:
+### Libraries and OS
 
 | Scikit Learn | Seaborn | Pandas | OpenCV | Windows |
 |--------------|---------|--------|--------|---------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="55" width="55" alt="Scikit Learn"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="55" width="55" alt="Seaborn"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="55" width="55" alt="Pandas"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="55" width="55" alt="OpenCV"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" height="55" width="55" alt="Windows"/> |
 
-### Skills:
+### Skills
 
 | Data Science | Artificial Intelligence | Machine Learning |
 |--------------|-------------------------|------------------|
 | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/dsgit.png" height="55" width="55" alt="Data Science" /> | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="55" width="55" alt="AI"/> | <img src="https://github.com/Jaswanth7255/jassu-test/blob/master/assets/mlgit.jpg" height="55" width="55" alt="Machine Learning" /> |
+
+---
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px" alt="GitHub Stats"> GitHub Stats
 
@@ -102,6 +136,8 @@
     </tr>
   </tbody>
 </table>
+
+---
 
 ## 📈 Contributions and Streaks
 
