@@ -32,34 +32,58 @@
 ## 🌐 Connect with me: 📢
 
 <p align="center">
-  <a href="https://hiteshgottapuprotfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/website-00246B?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="mailto:hiteshgottapu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Hiteshgottapu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://wordpress.com/posts/dataanalyst53.wordpress.com">
-    <img src="https://img.shields.io/badge/Blog-FBBC05?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-  <a href="https://wa.me/918143506309">
-    <img src="https://img.shields.io/badge/WhatsApp-34A853?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:21481A5432@gecgudlavallerumic.in">
-    <img src="https://img.shields.io/badge/Outlook-CC313D?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hitesh-data-analyst">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://hiteshgottapuprotfolio.netlify.app/"><img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="mailto:hiteshgottapu@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/hitesh-data-analyst"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Hiteshgottapu"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+## 🔧 Tech Stack
+
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+
+---
+
+## 📊 Featured Projects
+
+- **[MedScript](https://github.com/Hiteshgottapu/medscript)**: AI-powered platform to digitize prescriptions, predict diseases, and compare medicine prices.
+- **[PDFChat-Pro](https://github.com/Hiteshgottapu/pdfchat-pro)**: SaaS-ready AI assistant to analyze, summarize, and query multiple PDFs using GPT.
+- **[ReAct-AI](https://github.com/Hiteshgottapu/react-ai)**: Autonomous research agent using ReAct + LangChain + search APIs.
+- **[LegalDraft Suite](https://github.com/Hiteshgottapu/legaldraf)**: Conversational agentic suite for legal document drafting, QA, and clarification.
+- **[Agile Code Quality Assessment](https://github.com/Hiteshgottapu/data_science/tree/AIDS/Agile%20Code%20Quality%20Assessment%20Tool)**: Real-time code feedback using NLP and logic-based analysis.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Hiteshgottapu&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshgottapu&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/hitesh_gottapu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" height="35" width="45" alt="Twitter" /></a>
-  <a href="https://stackoverflow.com/users/26715034/gottapu-hitesh"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/stackoverflow.svg" height="35" width="45" alt="Stack Overflow" /></a>
-  <a href="https://www.facebook.com/hitesh.gottapu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/facebook.svg" height="35" width="45" alt="Facebook" /></a>
-  <a href="https://instagram.com/__hitesh__simha__"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" height="35" width="45" alt="Instagram" /></a>
-  <a href="https://www.hackerrank.com/profile/hiteshgottapu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hackerrank.svg" height="35" width="45" alt="HackerRank" /></a>
-  <a href="https://www.geeksforgeeks.org/user/hiteshgottapu309/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/geeksforgeeks.svg" height="35" width="45" alt="GeeksforGeeks" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hiteshgottapu&theme=radical" />
 </p>
+
+---
+
+## 🌊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiteshgottapu&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+## 💡 Quote
+
+> "The goal is not to be better than someone else, but to be better than you were yesterday."
