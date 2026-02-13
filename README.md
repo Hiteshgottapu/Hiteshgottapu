@@ -110,7 +110,7 @@ Systems are built to scale horizontally and evolve modularly.
 # Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,pytorch,docker,postgres,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,git,github,firebase,FastAPI" />
 </p>
 
 ---
