@@ -1,152 +1,99 @@
-<!-- ========================= -->
-<!--  HITESH GOTTAPU README   -->
-<!-- ========================= -->
-
-<h1 align="center">Hitesh Gottapu</h1>
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-AI Product Engineer • LLM Systems • MLOps • AWS Infrastructure
-</p>
-
-<p align="center">
-Building production-ready AI systems from data ingestion to deployed APIs.
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:141E30,100:243B55&height=250&section=header&text=Hitesh%20Gottapu&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=AI%20Product%20Engineer%20|%20LLM%20Systems%20|%20MLOps%20|%20AWS&descSize=18&descAlignY=65" />
 </p>
 
 ---
 
-## 🚀 What I Build
+## 🚀 About
 
-- End-to-end AI SaaS platforms  
-- LLM-powered multi-agent systems  
-- Serverless ML inference pipelines (AWS)  
-- Scalable data engineering workflows  
-- Autonomous research & reasoning agents  
+AI Product Engineer building production-grade intelligent systems.
 
----
-
-## 🧠 Core Capabilities
-
-**AI & LLM Systems**
-- ReAct Agents
-- RAG Architectures
-- LangChain / Tool Calling
-- Prompt Optimization
-- Vector Databases
-
-**ML Engineering**
-- Model Training Pipelines
-- Feature Engineering
-- Experiment Tracking
-- Performance Optimization
-
-**Cloud & Infrastructure**
-- AWS Lambda
-- Amazon S3
-- AWS CloudFormation
-- CI/CD Pipelines
-- API Deployment
-- Containerized Workloads
+I design and deploy:
+- LLM-powered SaaS platforms  
+- Autonomous multi-agent systems  
+- Serverless ML infrastructure on AWS  
+- End-to-end AI pipelines (data → model → API → production)  
 
 ---
 
 ## 🔥 Flagship Systems
 
-### 🏥 MedScript
-AI-powered healthcare assistant designed to:
-- Digitize prescriptions using OCR
-- Predict disease risks
-- Compare medicine pricing across providers
-- Provide structured medical insights
+### 🏥 MedScript  
+AI healthcare assistant.
 
-**Architecture**
-- OCR → NLP pipeline
-- ML prediction layer
-- API integration layer
+**Core Capabilities**
+- OCR prescription parsing  
+- Disease risk modeling  
+- Medicine price comparison APIs  
 - Serverless backend (AWS Lambda + S3)
 
----
-
-### 📄 PDFChat-Pro
-SaaS-ready multi-document AI assistant.
-
-**Capabilities**
-- Multi-PDF ingestion
-- RAG-based retrieval
-- GPT-powered summarization
-- Context-aware question answering
-
 **Architecture**
-- Document chunking + embeddings
-- Vector search layer
-- LLM reasoning pipeline
-- Web-based interface
+OCR → NLP pipeline → ML prediction → API layer → Cloud deployment  
 
 ---
 
-### 🤖 ReAct-AI
-Autonomous research agent using reasoning + tool calling.
+### 📄 PDFChat-Pro  
+Multi-document AI research assistant.
 
-**Capabilities**
-- Search + reasoning loop
-- Dynamic action execution
-- Multi-step problem solving
-- External API integration
+**Core Capabilities**
+- Multi-PDF ingestion  
+- Embedding generation  
+- Vector database retrieval  
+- GPT-powered contextual reasoning  
 
----
-
-### ⚖ LegalDraft Suite
-Agentic legal drafting and QA system.
-
-**Capabilities**
-- Document drafting
-- Clause clarification
-- Legal question answering
-- Conversational document refinement
+**System Design**
+Chunking → Embeddings → Vector Search → LLM → API → UI  
 
 ---
 
-## 🏗 Deployment Philosophy
+### 🤖 ReAct-AI  
+Autonomous reasoning agent.
 
-- Automate everything  
-- Containerize everything  
-- Monitor everything  
-- Ship fast, iterate faster  
-
-Production > notebooks.  
-Systems > scripts.  
+- ReAct framework implementation  
+- Multi-step tool calling  
+- External search integration  
+- Dynamic planning + execution loop  
 
 ---
 
-## 🔧 Technical Stack
+### ⚖ LegalDraft Suite  
+Conversational legal drafting engine.
 
-**Languages**
-- Python
-- SQL
-
-**AI/ML**
-- TensorFlow
-- PyTorch
-- LangChain
-- OpenAI APIs
-
-**Data**
-- MongoDB
-- Vector Databases
-- Power BI
-
-**Cloud**
-- AWS Lambda
-- Amazon S3
-- CloudFormation
-- Firebase
+- Clause generation  
+- Context-aware refinement  
+- Legal QA workflows  
+- Agentic document pipeline  
 
 ---
 
-## 📊 GitHub Activity
+## 🧠 Technical Stack
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hiteshgottapu&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshgottapu&layout=compact&hide_border=true&langs_count=6&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,mongodb,postgresql,git,github,firebase" />
+</p>
+
+---
+
+## 🏗 Engineering Principles
+
+- Build for production  
+- Automate infrastructure  
+- Containerize services  
+- Optimize latency  
+- Measure everything  
+
+Systems > scripts  
+Deployment > experimentation  
+
+---
+
+## 📊 Development Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hiteshgottapu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshgottapu&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" />
 </p>
 
 ---
@@ -154,8 +101,19 @@ Systems > scripts.
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://hiteshgottapuprotfolio.netlify.app/">Portfolio</a> •
-  <a href="mailto:hiteshgottapu@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/hitesh-data-scientist">LinkedIn</a> •
-  <a href="https://github.com/Hiteshgottapu">GitHub</a>
+  <a href="https://hiteshgottapuprotfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:hiteshgottapu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hitesh-data-scientist">
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
 </p>
