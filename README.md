@@ -92,8 +92,8 @@ Deployment > experimentation
 ## 📊 Development Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hiteshgottapu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiteshgottapu&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hiteshgottapu&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hiteshgottapu&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" />
 </p>
 
 ---
