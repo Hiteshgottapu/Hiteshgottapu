@@ -89,14 +89,6 @@ Deployment > experimentation
 
 ---
 
-## 📊 Development Metrics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hiteshgottapu&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hiteshgottapu&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&cache_seconds=1800" />
-</p>
----
-
 ## 🌐 Connect
 
 <p align="center">
