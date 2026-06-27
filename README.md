@@ -1,250 +1,164 @@
-<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=220&section=header&text=Hitesh%20Gottapu&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20LLM%20Applications%20|%20Data%20Engineering%20|%20Production%20AI&descSize=18&descAlignY=70" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:1a2744&height=200&section=header&text=Hitesh%20Gottapu&fontSize=52&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%94%20LLM%20Applications%20%7C%20Data%20Engineering%20%7C%20Production%20AI&descSize=16&descAlignY=62&descColor=94a3b8)
 
-<p align="center">
-  <a href="https://hiteshgottapuprotfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hitesh-data-scientist"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hiteshgottapu@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://hiteshgottapuprotfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/hitesh-data-scientist)
+[![Email](https://img.shields.io/badge/Email-0d1b2a?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:hiteshgottapu@gmail.com)
+
+</div>
 
 ---
 
-# AI Systems Built for Production
+## 🧠 What I Build
 
-I build end-to-end AI applications combining machine learning, data engineering, backend systems, and Large Language Models into production-ready software.
+I design and ship **end-to-end AI systems** — from raw data ingestion to production-grade LLM inference — that solve real enterprise problems. My work sits at the intersection of machine learning, backend engineering, and applied AI safety.
 
-### Focus Areas
+```
+Data Engineering  →  Model Development  →  Production Deployment  →  Safety Validation
+```
 
-* Retrieval-Augmented Generation (RAG)
-* FastAPI AI Services
-* AI Safety & Validation Pipelines
-* Enterprise Data Engineering
-* LLM Fine-Tuning (QLoRA / PEFT)
-* Production AI Infrastructure
-
----
-
-# Featured Systems
+**Core focus areas:**
+- **RAG Systems** — Semantic retrieval pipelines with vector databases
+- **LLM Fine-Tuning** — QLoRA / PEFT for domain adaptation
+- **AI Safety** — Hallucination mitigation, citation validation, output verification
+- **Enterprise Data Pipelines** — Medallion ETL, multi-tenant SaaS integrations
+- **FastAPI AI Services** — Production inference APIs with auth and observability
 
 ---
 
-## 🚀 FluxAI — Enterprise Marketing Intelligence Platform
+## 🚀 Featured Projects
 
-### Problem
+### FluxAI — Enterprise Marketing Intelligence Platform
 
-Enterprise marketing data is fragmented across multiple SaaS platforms, making unified analytics and AI difficult.
+> *Fragmented SaaS marketing data unified into AI-ready infrastructure*
 
-### Architecture
+```
+Google Ads  ╮
+Meta Ads    ├──▶  OAuth 2.0  ──▶  Medallion ETL (Bronze → Silver → Gold)  ──▶  FastAPI  ──▶  AI Workloads
+HubSpot     ╯                          Snowflake + AWS S3
+```
 
-Google Ads • Meta Ads • HubSpot • Snowflake • AWS S3
+**What makes it real:**
+- Multi-tenant architecture with per-client data isolation
+- OAuth 2.0 ingestion pipelines for 3 SaaS platforms
+- Medallion ETL: raw ingestion → cleaned → business-ready gold layer
+- FastAPI inference layer decoupled from the data pipeline
 
-↓
-
-OAuth 2.0 Authentication
-
-↓
-
-Medallion Data Pipeline (Raw → Preprocessed → Gold)
-
-↓
-
-FastAPI APIs
-
-↓
-
-Analytics & AI Workloads
-
-### Tech Stack
-
-Python • FastAPI • PostgreSQL • AWS S3 • Snowflake • OAuth 2.0 • Docker
-
-### Engineering Highlights
-
-* Multi-tenant enterprise architecture
-* OAuth 2.0 secured ingestion pipelines
-* Medallion ETL design
-* AI-ready data infrastructure
-* FastAPI inference services
+`Python` `FastAPI` `PostgreSQL` `Snowflake` `AWS S3` `Docker` `OAuth 2.0`
 
 ---
 
-## 🏥 MedScript — AI Prescription Intelligence Platform
+### MedScript — AI Prescription Intelligence Platform
 
-### Problem
+> *Turning handwritten prescriptions into structured, queryable medical records*
 
-Handwritten medical prescriptions are difficult to digitize and understand.
+```
+Prescription Image  ──▶  OpenCV OCR  ──▶  Clinical NER  ──▶  pgvector RAG  ──▶  LLM  ──▶  Patient Explanation
+```
 
-### Architecture
+**What makes it real:**
+- Custom OCR pipeline handling noisy handwritten inputs
+- Clinical entity extraction (drug names, dosages, frequencies)
+- RAG-based medical Q&A grounded in the patient's own records
+- FastAPI service with modular inference stages
 
-Prescription Image
-
-↓
-
-OCR
-
-↓
-
-Structured Medical Records
-
-↓
-
-Semantic Retrieval
-
-↓
-
-LLM Reasoning
-
-↓
-
-Patient-Friendly Explanation
-
-### Tech Stack
-
-Python • OpenCV • PyTorch • FastAPI • PostgreSQL • Gemini API
-
-### Engineering Highlights
-
-* OCR-powered prescription digitization
-* Clinical entity extraction
-* RAG-based medical question answering
-* Modular AI inference pipeline
-* FastAPI backend architecture
+`Python` `OpenCV` `PyTorch` `FastAPI` `PostgreSQL` `Gemini API`
 
 ---
 
-## ⚖ Brahmo — Legal AI Safety Engine
+### Brahmo — Legal AI Safety Engine
 
-### Problem
+> *LLMs hallucinate legal citations. This system catches them before they cause harm.*
 
-Large Language Models hallucinate legal citations, creating risk in legal workflows.
+```
+User Query  ──▶  LLM Generation  ──▶  Citation Extraction  ──▶  Deterministic Verification  ──▶  Safe Response
+                                                                         ↕
+                                                              Rule-Based Legal Validator
+```
 
-### Architecture
+**What makes it real:**
+- Deterministic citation verification — no model guessing
+- Thread-safe LRU cache for repeated legal lookups
+- Hallucination rate tracking across response batches
+- Production-grade FastAPI + React frontend
 
-User Query
-
-↓
-
-LLM Generation
-
-↓
-
-Citation Extraction
-
-↓
-
-Deterministic Verification
-
-↓
-
-Safety Validation
-
-↓
-
-Verified Response
-
-### Tech Stack
-
-FastAPI • React • PostgreSQL • pgvector • Gemini API
-
-### Engineering Highlights
-
-* Deterministic citation validation
-* Hallucination mitigation pipeline
-* Thread-safe LRU cache
-* Rule-based legal verification
-* Production-grade backend architecture
+`FastAPI` `React` `PostgreSQL` `pgvector` `Gemini API`
 
 ---
 
-## 🤖 QLoRA Fine-Tuning — Domain-Adaptive Coding Assistant
+### QLoRA Fine-Tuning — Domain-Adaptive Coding Assistant
 
-### Problem
+> *Specializing a 1.5B parameter model for coding Q&A with minimal compute*
 
-General-purpose LLMs are not optimized for coding-focused question answering.
+```
+CodeAlpaca Dataset  ──▶  4-bit NF4 Quantization  ──▶  QLoRA + PEFT  ──▶  Qwen2.5-1.5B  ──▶  Eval  ──▶  Inference
+```
 
-### Architecture
+**What makes it real:**
+- 4-bit NF4 quantization — runs on consumer hardware
+- PEFT adapter training (not full fine-tune — surgical and efficient)
+- Automated evaluation pipeline with held-out coding benchmarks
+- Drop-in inference, no framework lock-in
 
-CodeAlpaca Dataset
-
-↓
-
-QLoRA Fine-Tuning
-
-↓
-
-Qwen2.5-1.5B
-
-↓
-
-Evaluation
-
-↓
-
-Inference
-
-### Tech Stack
-
-Python • PyTorch • Hugging Face • PEFT • BitsAndBytes • Transformers
-
-### Engineering Highlights
-
-* QLoRA fine-tuning
-* 4-bit NF4 quantization
-* PEFT implementation
-* Efficient LLM specialization
-* Model evaluation pipeline
+`Python` `PyTorch` `Hugging Face` `PEFT` `BitsAndBytes` `Transformers`
 
 ---
 
-# Engineering Principles
+## 🛠️ Tech Stack
 
-* Production-first architecture
-* API-first backend development
-* Modular AI systems
-* Scalable cloud-native design
-* Secure authentication & authorization
-* Reliable AI inference pipelines
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=38bdf8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1b2a?style=for-the-badge&logo=fastapi&logoColor=38bdf8)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1b2a?style=for-the-badge&logo=pytorch&logoColor=38bdf8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1b2a?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
+![Docker](https://img.shields.io/badge/Docker-0d1b2a?style=for-the-badge&logo=docker&logoColor=38bdf8)
+![AWS](https://img.shields.io/badge/AWS-0d1b2a?style=for-the-badge&logo=amazonaws&logoColor=38bdf8)
+![Snowflake](https://img.shields.io/badge/Snowflake-0d1b2a?style=for-the-badge&logo=snowflake&logoColor=38bdf8)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1b2a?style=for-the-badge&logo=huggingface&logoColor=38bdf8)
 
-# Technology Stack
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,postgres,docker,aws,git,github,firebase" />
-</p>
-
-### AI & Data
-
-* FastAPI
-* PostgreSQL
-* RAG
-* Vector Databases
-* Hugging Face
-* Gemini API
-* OpenAI API
-* QLoRA
-* PEFT
-* OCR
-* Machine Learning
-* Deep Learning
+| Layer | Tools |
+|---|---|
+| **AI / ML** | PyTorch · Hugging Face · PEFT · BitsAndBytes · QLoRA · OCR |
+| **LLM APIs** | Gemini · OpenAI · LangChain |
+| **Vector & RAG** | pgvector · FAISS · Semantic Search |
+| **Backend** | FastAPI · PostgreSQL · OAuth 2.0 |
+| **Data Engineering** | Snowflake · AWS S3 · Medallion ETL |
+| **DevOps** | Docker · GitHub Actions |
 
 ---
 
-# Current Focus
+## 📐 Engineering Principles
 
-Building production AI systems that combine:
-
-* Retrieval-Augmented Generation
-* LLM Fine-Tuning
-* Enterprise Data Pipelines
-* AI Safety
-* Scalable Backend Infrastructure
+- **Production-first** — every system is designed to run in prod, not just notebooks
+- **Modular AI pipelines** — each stage is testable, replaceable, and observable
+- **Safety by design** — validation layers are not optional; they're part of the architecture
+- **API-first backends** — clean separation of inference from data and UI layers
+- **Efficient fine-tuning** — domain adaptation without cluster-scale compute
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=100&section=footer" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiteshGottapu&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&rank_icon=github)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshGottapu&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to AI/ML engineering roles, research collaborations, and production AI consulting.*
+
+[![Portfolio](https://img.shields.io/badge/See%20Full%20Portfolio-0d1b2a?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://hiteshgottapuprotfolio.netlify.app/)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a2744,50:0d1b2a,100:0a0a0f&height=100&section=footer)
+
+</div>
