@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=220&section=header&text=Hitesh%20Gottapu&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20Systems%20Engineer%20%7C%20LLM%20Infrastructure%20%7C%20Serverless%20Architecture&descSize=18&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=220&section=header&text=Hitesh%20Gottapu&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20LLM%20Applications%20|%20Data%20Engineering%20|%20Production%20AI&descSize=18&descAlignY=70" />
 </p>
 
 <p align="center">
@@ -14,115 +14,237 @@
 
 # AI Systems Built for Production
 
-I design and deploy scalable AI systems that move beyond experimentation.
+I build end-to-end AI applications combining machine learning, data engineering, backend systems, and Large Language Models into production-ready software.
 
-Focus:
-- LLM-powered SaaS platforms  
-- Retrieval-Augmented Generation (RAG) architectures  
-- Autonomous multi-agent systems  
-- Serverless ML infrastructure on AWS  
-- Data → Model → API → Deployment pipelines  
+### Focus Areas
 
-No notebooks-as-products. Only deployable systems.
-
----
-
-# Flagship Systems
-
-## 🏥 MedScript — AI Healthcare Pipeline
-
-**Problem**  
-Unstructured prescriptions and fragmented pricing data.
-
-**System Design**  
-OCR → NLP Structuring → Risk Modeling → Pricing APIs → Serverless Backend
-
-**Stack**  
-AWS Lambda • PyTorch • FastAPI • S3 • PostgreSQL
-
-**Engineering Highlights**
-- Serverless backend reducing idle infra cost  
-- Modular inference layer  
-- API-first architecture  
+* Retrieval-Augmented Generation (RAG)
+* FastAPI AI Services
+* AI Safety & Validation Pipelines
+* Enterprise Data Engineering
+* LLM Fine-Tuning (QLoRA / PEFT)
+* Production AI Infrastructure
 
 ---
 
-## 📄 PDFChat-Pro — Multi-Document AI Research Engine
-
-**Problem**  
-Extracting insight from large document collections.
-
-**Architecture**  
-Chunking → Embeddings → Vector Index → RAG → LLM → API
-
-**Stack**  
-LangChain • Pinecone • GPT-4 • FastAPI • Docker
-
-**Engineering Highlights**
-- Sub-second vector retrieval  
-- Multi-document contextual reasoning  
-- API-driven SaaS backend  
+# Featured Systems
 
 ---
 
-## 🤖 ReAct-AI — Autonomous Reasoning Agent
+## 🚀 FluxAI — Enterprise Marketing Intelligence Platform
 
-**Architecture**
-Prompt → Reason → Tool Call → Observation → Iterate
+### Problem
 
-**Stack**
-Python • OpenAI API • SerpAPI • Custom Agent Loop
+Enterprise marketing data is fragmented across multiple SaaS platforms, making unified analytics and AI difficult.
 
-**Engineering Highlights**
-- Dynamic tool selection  
-- Multi-step planning  
-- Modular action execution framework  
+### Architecture
 
----
+Google Ads • Meta Ads • HubSpot • Snowflake • AWS S3
 
-## ⚖ LegalDraft — Agentic Legal Workflow System
+↓
 
-**Architecture**
-User Intent → Context Builder → Clause Generator → Refinement Loop
+OAuth 2.0 Authentication
 
-**Stack**
-Streamlit • PostgreSQL • LLM APIs
+↓
 
-**Engineering Highlights**
-- Context-aware drafting  
-- Structured clause refinement  
-- Stateful conversational workflow  
+Medallion Data Pipeline (Raw → Preprocessed → Gold)
 
----
+↓
 
-# Infrastructure & Engineering Discipline
+FastAPI APIs
 
-- Containerized microservices  
-- CI/CD integration  
-- API-first design  
-- Serverless deployment strategies  
-- Performance-conscious LLM pipelines  
+↓
 
-Systems are built to scale horizontally and evolve modularly.
+Analytics & AI Workloads
+
+### Tech Stack
+
+Python • FastAPI • PostgreSQL • AWS S3 • Snowflake • OAuth 2.0 • Docker
+
+### Engineering Highlights
+
+* Multi-tenant enterprise architecture
+* OAuth 2.0 secured ingestion pipelines
+* Medallion ETL design
+* AI-ready data infrastructure
+* FastAPI inference services
 
 ---
 
-# Technical Stack
+## 🏥 MedScript — AI Prescription Intelligence Platform
+
+### Problem
+
+Handwritten medical prescriptions are difficult to digitize and understand.
+
+### Architecture
+
+Prescription Image
+
+↓
+
+OCR
+
+↓
+
+Structured Medical Records
+
+↓
+
+Semantic Retrieval
+
+↓
+
+LLM Reasoning
+
+↓
+
+Patient-Friendly Explanation
+
+### Tech Stack
+
+Python • OpenCV • PyTorch • FastAPI • PostgreSQL • Gemini API
+
+### Engineering Highlights
+
+* OCR-powered prescription digitization
+* Clinical entity extraction
+* RAG-based medical question answering
+* Modular AI inference pipeline
+* FastAPI backend architecture
+
+---
+
+## ⚖ Brahmo — Legal AI Safety Engine
+
+### Problem
+
+Large Language Models hallucinate legal citations, creating risk in legal workflows.
+
+### Architecture
+
+User Query
+
+↓
+
+LLM Generation
+
+↓
+
+Citation Extraction
+
+↓
+
+Deterministic Verification
+
+↓
+
+Safety Validation
+
+↓
+
+Verified Response
+
+### Tech Stack
+
+FastAPI • React • PostgreSQL • pgvector • Gemini API
+
+### Engineering Highlights
+
+* Deterministic citation validation
+* Hallucination mitigation pipeline
+* Thread-safe LRU cache
+* Rule-based legal verification
+* Production-grade backend architecture
+
+---
+
+## 🤖 QLoRA Fine-Tuning — Domain-Adaptive Coding Assistant
+
+### Problem
+
+General-purpose LLMs are not optimized for coding-focused question answering.
+
+### Architecture
+
+CodeAlpaca Dataset
+
+↓
+
+QLoRA Fine-Tuning
+
+↓
+
+Qwen2.5-1.5B
+
+↓
+
+Evaluation
+
+↓
+
+Inference
+
+### Tech Stack
+
+Python • PyTorch • Hugging Face • PEFT • BitsAndBytes • Transformers
+
+### Engineering Highlights
+
+* QLoRA fine-tuning
+* 4-bit NF4 quantization
+* PEFT implementation
+* Efficient LLM specialization
+* Model evaluation pipeline
+
+---
+
+# Engineering Principles
+
+* Production-first architecture
+* API-first backend development
+* Modular AI systems
+* Scalable cloud-native design
+* Secure authentication & authorization
+* Reliable AI inference pipelines
+
+---
+
+# Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,docker,git,github,firebase,FastAPI" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,postgres,docker,aws,git,github,firebase" />
 </p>
 
+### AI & Data
+
+* FastAPI
+* PostgreSQL
+* RAG
+* Vector Databases
+* Hugging Face
+* Gemini API
+* OpenAI API
+* QLoRA
+* PEFT
+* OCR
+* Machine Learning
+* Deep Learning
+
 ---
 
-# Deployment Philosophy
+# Current Focus
 
-Production > Prototypes  
-Architecture > Scripts  
-Automation > Manual Ops  
+Building production AI systems that combine:
+
+* Retrieval-Augmented Generation
+* LLM Fine-Tuning
+* Enterprise Data Pipelines
+* AI Safety
+* Scalable Backend Infrastructure
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:203A43&height=100&section=footer" />
 </p>
