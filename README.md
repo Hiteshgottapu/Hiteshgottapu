@@ -90,7 +90,7 @@ Snowflake  ──┘                                       Preprocessing & Integ
 | Scalability | Tenant-aware pipelines · S3 partitioning designed for horizontal growth |
 | Extensibility | Additional sources or agent workflows plug in without structural rework |
 
-`Python` `FastAPI` `AWS S3` `AWS CloudFormation` `Snowflake` `PostgreSQL` `OAuth 2.0` `Pandas` `Docker`
+`Python` `FastAPI` `AWS S3` `AWS CloudFormation` `Snowflake` `PostgreSQL` `OAuth 2.0` `Plotly` `Docker` `Pyspark`
 
 ---
 
