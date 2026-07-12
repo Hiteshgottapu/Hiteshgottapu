@@ -171,13 +171,3 @@ Training and validation loss stayed tightly aligned — no overfitting signal at
 **Production-first.** Async APIs, boundary validation, graceful failure handling, and observability are built in from the start — not added after the fact.
 
 ---
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=HiteshGottapu&show_icons=true&theme=transparent&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=94a3b8&rank_icon=github)
-
-*Open to AI engineering roles, LLM infrastructure, and applied AI consulting.*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:112240,50:0d1b2a,100:0a0f1e&height=80&section=footer)
-
-</div>
