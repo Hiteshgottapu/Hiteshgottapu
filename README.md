@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b2a,100:112240&height=180&section=header&text=Hitesh%20Gottapu&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=40&desc=AI%20Systems%20Engineer&descSize=18&descAlignY=62&descColor=7dd3fc)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=vercel&logoColor=7dd3fc)](https://hiteshgottapuprotfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1b2a?style=for-the-badge&logo=vercel&logoColor=7dd3fc)](https://hiteshgottapuprotfolio.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc)](https://www.linkedin.com/in/hitesh-data-scientist)
 [![Email](https://img.shields.io/badge/Email-0d1b2a?style=for-the-badge&logo=gmail&logoColor=7dd3fc)](mailto:hiteshgottapu@gmail.com)
 
